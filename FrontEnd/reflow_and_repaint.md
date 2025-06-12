@@ -25,7 +25,7 @@
 > 크게 3가지 최적화 방법에 대해 설명드리겠습니다.
 
 #### 첫 번째로 reflow를 유발하는 CSS 속성 사용을 최소화하는 것입니다.
-   - `position: relative` 사용 주의 대신, `position: absolute` 또는 `fixed` 사용하는것이 좋습니다.
+   - `position: relative` 대신, `position: absolute` 또는 `fixed` 사용하는것이 좋습니다.
    - 인라인 스타일 과 CSS에서의 JS 표현식 자제하는 것이 좋습니다.
 
 #### 두 번째로 CSS 애니메이션 최적화입니다.
