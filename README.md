@@ -8,7 +8,7 @@
 - [실행컨텍스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/excution_context.md)
 
 ### ✅ React
-- [탠스택쿼리 staletime과 gctime](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/tanstack-query.md)
+- [TanStackQuery의 staletime과 gctime](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/tanstack-query.md)
 
 <br/>
 
