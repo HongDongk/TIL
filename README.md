@@ -12,6 +12,7 @@
 - [TanStackQuery의 staletime과 gctime](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/tanstack-query.md)
 - [props와 state](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/props_and_state.md)
 - [Controlled Component와 Uncontrolled Component](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/controlled_and_uncontrolled%20component.md)
+- [React의 성능 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/performance_optimization.md)
 
 <br/>
 
