@@ -2,6 +2,8 @@
 
 # 🔥Frontend
 - [리플로우와 리페인트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reflow_and_repaint.md)
+- [인터넷 창에 www.google.com를 입력하면 무슨 일이 일어나는지 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/dns_proccess.md)
+- [브라우저 렌더링 과정](https://github.com/HongDongk/TIL/blob/master/FrontEnd/browser_rendering.md)
 
 ### ✅ JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
