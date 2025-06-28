@@ -12,9 +12,9 @@
   - 이때 리액트는 가상 DOM에서 계산된 결과를 실제 DOM에 적용하고, 변화된 UI를 브라우저에 렌더링합니다.  
   - DOM 업데이트 이후에는 `useEffect`와 같은 사이드 이펙트를 발생시키는 훅들이 실행됩니다.
 
-<br />
+![image](https://github.com/user-attachments/assets/8ef72458-bb40-4d3d-be2c-32466b80b2ca)
 
-요약하면 render phase는 변화된 UI를 결정하는 계산 과정이고, commit phase는 그 계산된 결과를 실제로 반영하는 단계입니다.
+요약하면 `render phase`는 변화된 UI를 결정하는 계산 과정이고, `commit phase`는 그 계산된 결과를 실제로 반영하는 단계입니다.
 
 <br />
 
