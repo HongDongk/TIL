@@ -4,6 +4,15 @@
 - **리액트의 `React.memo`를 사용하여 컴포넌트를 메모이제이션할 수 있습니다.**
   - 이는 컴포넌트의 props가 변경되지 않았을 때, 리렌더링을 방지하여 성능을 최적화합니다.
   - 이는 특히 렌더링 비용이 큰 컴포넌트에서 유용합니다.
+  - ```javascript
+    import React from "react";
+
+    const MyComponent = ({ value }) => {
+      return <div>{value}</div>;
+    };
+
+    export default React.memo(MyComponent);
+    ```
 
 - **또한 `useCallback`과 `useMemo`를 활용할 수도 있습니다.**
   - `useCallback`은 **함수를 메모이제이션**하여 불필요한 함수 재생성을 방지하고, `useMemo`는 **값의 재계산**을 방지하여 성능을 최적화합니다. 
