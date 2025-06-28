@@ -15,6 +15,8 @@
 - [props와 state](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/props_and_state.md)
 - [Controlled Component와 Uncontrolled Component](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/controlled_and_uncontrolled%20component.md)
 - [React의 성능 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/performance_optimization.md)
+- [리액트의 Strict Mode](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/strict_mode.md)
+- [리액트의 render phase와 commit phase](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/render_phase_and_commit_phase.md)
 
 <br/>
 
