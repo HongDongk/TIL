@@ -1,7 +1,6 @@
 # 📝 2025 Today I Learned
 
 # 🔥Frontend
-- [리플로우와 리페인트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reflow_and_repaint.md)
 - [인터넷 창에 www.google.com를 입력하면 무슨 일이 일어나는지 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/browser_rendering.md)
 - [브라우저 렌더링 과정](https://github.com/HongDongk/TIL/blob/master/FrontEnd/dns_proccess.md)
 
@@ -12,6 +11,7 @@
 - [호이스팅](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/hoisting.md)
 
 ### ✅ React
+- [리플로우와 리페인트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reflow_and_repaint.md)
 - [TanStackQuery의 staletime과 gctime](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/tanstack-query.md)
 - [props와 state](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/props_and_state.md)
 - [Controlled Component와 Uncontrolled Component](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/controlled_and_uncontrolled%20component.md)
