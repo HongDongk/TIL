@@ -5,7 +5,7 @@
 - [브라우저 렌더링 과정](https://github.com/HongDongk/TIL/blob/master/FrontEnd/dns_proccess.md)
 - [CommonJS와 ES Module의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/commonJs_esModule.md)
 
-### ✅ JavaScript
+### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
 - [실행컨텍스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/excution_context.md)
 - [이벤트루프](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/eventloop.md)
@@ -15,7 +15,7 @@
 - [script 태그에서 async와 defer의 차이점에 대해서 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/script_tag.md)
 - [이벤트 전파](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/event_propagtion.md)
 
-### ✅ React
+### React
 - [리플로우와 리페인트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reflow_and_repaint.md)
 - [TanStackQuery의 staletime과 gctime](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/tanstack-query.md)
 - [props와 state](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/props_and_state.md)
