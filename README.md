@@ -25,7 +25,7 @@
 - [React의 성능 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/performance_optimization.md)
 - [리액트의 Strict Mode](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/strict_mode.md)
 - [리액트의 render phase와 commit phase](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/render_phase_and_commit_phase.md)
-- [index와 key값의 상관관계](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/index_and_key.md)
+- [리액트의 index와 key값의 상관관계](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/index_and_key.md)
 - [useEffect와 useLayoutEffect](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_useLayoutEffect.md)
 
 <br/>
