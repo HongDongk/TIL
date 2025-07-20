@@ -5,6 +5,11 @@
 - [브라우저 렌더링 과정](https://github.com/HongDongk/TIL/blob/master/FrontEnd/dns_proccess.md)
 - [CommonJS와 ES Module의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/commonJs_esModule.md)
 - [웹 성능 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/web_performance_optimization.md)
+- [이미지 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/image_optimization.md)
+- [웹 접근성의 개념과 개선 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/web_accessibility.md)
+- [SSR(Server Side Rendering)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ssr.md)
+- [CSS Flexbox와 Grid의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/flexbox_and_grid.md)
+- [프론트엔드 E2E 테스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/e2e_test.md)
 
 ### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
