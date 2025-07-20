@@ -26,4 +26,4 @@ Next.js를 통한 최신의 방식으로 SSR을 구현할 경우에는 다음과
 둘째, 상대적으로 **구현 복잡도가 높습니다.** 
 - 현대의 웹앱은 SSR과 CSR을 동시에 사용하는 경우가 많습니다. 이때 클라이언트 사이드 로직과 서버 사이드의 로직을 구분해가면서 구현해야 하기 때문에 상대적으로 구현 복잡도가 높습니다.
 
-#### [SSR과 CSR 관련 포스트](https://velog.io/@hongdongk/Next.js%EC%9D%98-pre-rendering-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+### [SSR과 CSR 정리 포스트](https://velog.io/@hongdongk/Next.js%EC%9D%98-pre-rendering-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
