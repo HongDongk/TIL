@@ -10,6 +10,9 @@
 - [SSR(Server Side Rendering)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ssr.md)
 - [CSS Flexbox와 Grid의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/flexbox_and_grid.md)
 - [프론트엔드 E2E 테스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/e2e_test.md)
+- [낙관적 업데이트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/optimistic_update.md)
+- [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_and_interface.md)
+- [시맨틱 마크업](https://github.com/HongDongk/TIL/blob/master/FrontEnd/symentic_markup.md)
 
 ### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
@@ -21,6 +24,8 @@
 - [script 태그에서 async와 defer의 차이점에 대해서 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/script_tag.md)
 - [이벤트 전파](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/event_propagtion.md)
 - [디바운스와 쓰로틀](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/debounce_and_throttle.md)
+- [싱글 스레드 언어](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/single_thread_language.md)
+- [undefined와 null의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/undefined_and_null.md)
 
 ### React
 - [리플로우와 리페인트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reflow_and_repaint.md)
