@@ -7,12 +7,12 @@
 - [웹 성능 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/web_performance_optimization.md)
 - [이미지 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/image_optimization.md)
 - [웹 접근성의 개념과 개선 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/web_accessibility.md)
+- [시맨틱 마크업](https://github.com/HongDongk/TIL/blob/master/FrontEnd/symentic_markup.md)
 - [SSR(Server Side Rendering)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ssr.md)
 - [CSS Flexbox와 Grid의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/flexbox_and_grid.md)
 - [프론트엔드 E2E 테스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/e2e_test.md)
 - [낙관적 업데이트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/optimistic_update.md)
 - [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_and_interface.md)
-- [시맨틱 마크업](https://github.com/HongDongk/TIL/blob/master/FrontEnd/symentic_markup.md)
 
 ### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
