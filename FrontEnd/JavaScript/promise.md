@@ -19,6 +19,29 @@
 - `Promise`는 코드의 가독성을 높이고, 비동기 작업의 흐름을 제어하는 데에 매우 유용합니다.
 - 특히 여러 개의 `Promise`를 순차적으로 연결할 수도 있고 `Promise.all()` 이나 `Promise.allSettled()` 같은 메서드를 통해 병렬로 비동기 작업을 처리할 수도 있습니다.
 
+```javascript
+const myPromise = new Promise((resolve, reject) => {
+  setTimeout(() => {
+    const success = true; 
+    if (success) {
+      resolve("작업이 성공적으로 완료되었습니다!");
+    } else {
+      reject("문제가 발생했습니다.");
+    }
+  }, 2000); 
+});
+
+// 사용 예시
+myPromise
+  .then((result) => {
+    console.log("성공:", result);
+  })
+  .catch((error) => {
+    console.log("실패:", error);
+  });
+
+```
+
 <br/>
 
 # Q: 그럼 Promise의 단점은 없나요? 
@@ -38,4 +61,5 @@
 <br/>
 
 [Promise 관련 블로그](https://velog.io/@hongdongk/%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4-async)
+
 
