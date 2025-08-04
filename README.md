@@ -26,7 +26,7 @@
 - [디바운스와 쓰로틀](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/debounce_and_throttle.md)
 - [싱글 스레드 언어](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/single_thread_language.md)
 - [undefined와 null의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/undefined_and_null.md)
-- [자바스크립트 Promise에 대해서 아는 대로 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/promise.md)
+- [Promise에 대해서 아는 대로 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/promise.md)
 - [Promise의 resolve()와 fulfilled에 대해서 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/promise_2.md)
 - [ES6에 대해서 아는 대로 설명해 주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/ES6.md)
 - [함수 선언식과 함수 표현식의 차이점에 대해서 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/function%20declaration_and_function%20expression.md)
