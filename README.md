@@ -26,6 +26,10 @@
 - [디바운스와 쓰로틀](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/debounce_and_throttle.md)
 - [싱글 스레드 언어](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/single_thread_language.md)
 - [undefined와 null의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/undefined_and_null.md)
+- [자바스크립트 Promise에 대해서 아는 대로 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/promise.md)
+- [Promise의 resolve()와 fulfilled에 대해서 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/promise_2.md)
+- [ES6에 대해서 아는 대로 설명해 주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/ES6.md)
+- [함수 선언식과 함수 표현식의 차이점에 대해서 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/function%20declaration_and_function%20expression.md)
 
 ### React
 - [리플로우와 리페인트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reflow_and_repaint.md)
@@ -37,6 +41,7 @@
 - [리액트의 render phase와 commit phase](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/render_phase_and_commit_phase.md)
 - [리액트의 index와 key값의 상관관계](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/index_and_key.md)
 - [useEffect와 useLayoutEffect](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_useLayoutEffect.md)
+- [useEffect가 호출되는 시점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect.md)
 
 <br/>
 
