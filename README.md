@@ -37,7 +37,8 @@
 
 ### React
 - [리플로우와 리페인트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reflow_and_repaint.md)
-- [TanStackQuery의 staletime과 gctime](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/tanstack-query.md)
+- [Tanstack Query](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/tanstack_query.md)
+- [TanStackQuery의 staletime과 gctime](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/staletime_and_gctime.md)
 - [props와 state](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/props_and_state.md)
 - [Controlled Component와 Uncontrolled Component](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/controlled_and_uncontrolled%20component.md)
 - [React의 성능 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/performance_optimization.md)
@@ -49,7 +50,6 @@
 - [불필요하게 리렌더링되는 상황을 방지하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/reRendering_prevent.md)
 - [리액트 동시성 모드(Concurrent Mode)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/concurrent_mode.md)
 - [useEffect와 Suspense를 활용하는 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_suspense.md)
-- [Tanstack Query](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/tanstack_query.md)
 
 <br/>
 
