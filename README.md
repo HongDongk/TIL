@@ -13,7 +13,6 @@
 - [프론트엔드 E2E 테스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/e2e_test.md)
 - [낙관적 업데이트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/optimistic_update.md)
 - [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_and_interface.md)
-- [Error Boundary](https://github.com/HongDongk/TIL/blob/master/FrontEnd/error_boundary.md)
 - [CORS(Cross-Origin Resource Sharing)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/cors.md)
 - [localStorage와 sessionStorage](https://github.com/HongDongk/TIL/blob/master/FrontEnd/localstorage_and_sessionstorage.md)
 - [webpack, rollup 번들러](https://github.com/HongDongk/TIL/blob/master/FrontEnd/webpack_and_rollup.md)
@@ -47,9 +46,10 @@
 - [리액트의 index와 key값의 상관관계](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/index_and_key.md)
 - [useEffect와 useLayoutEffect](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_useLayoutEffect.md)
 - [useEffect가 호출되는 시점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect.md)
+- [useEffect와 Suspense를 활용하는 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_suspense.md)
+- [Error Boundary](https://github.com/HongDongk/TIL/blob/master/FrontEnd/error_boundary.md)
 - [불필요하게 리렌더링되는 상황을 방지하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/reRendering_prevent.md)
 - [리액트 동시성 모드(Concurrent Mode)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/concurrent_mode.md)
-- [useEffect와 Suspense를 활용하는 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_suspense.md)
 
 <br/>
 
