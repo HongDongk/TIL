@@ -6,8 +6,6 @@
 
 <img width="1280" height="671" alt="image" src="https://github.com/user-attachments/assets/d1e584a6-09bd-4d5f-bf3c-b004bec6151d" />
 
-<br />
-
 ## ✅ Mounting
 **처음 컴포넌트가 생성되는 것을 마운팅(mounting)이라 합니다. 컴포넌트가 마운팅이 시작되면 아래와 같은 과정을 거칩니다.**
 
@@ -26,4 +24,25 @@
 - `componentWillUnmount()` 메서드는 컴포넌트가 화면에서 사라지기 직전에 호출됩니다.
 - 이 메서드를 이용하여 API 연결을 해제하거나, 이전에 `setInterval` 함수를 이용하여 함수를 반복 호출했다면 `clearInterval`함수로 중단하는 등의 작업을 할 수 있습니다.
 
+<br/>
 
+## 🌈 함수형 컴포넌트에서의 생명주기
+함수형 컴포넌트에는 별도의 생명주기 메서드가 없고,  
+👉 useEffect 훅을 활용해 같은 역할을 수행합니다.
+
+```javascript
+useEffect(() => {
+  // Mount 시 실행
+  console.log("컴포넌트 마운트됨");
+
+  return () => {
+    // Unmount 시 실행 (cleanup)
+    console.log("컴포넌트 언마운트됨");
+  };
+}, []); // 의존성 배열이 비어있으면 Mount/Unmount에만 실행
+
+useEffect(() => {
+  // 특정 값이 바뀔 때 실행 (Update)
+  console.log("state나 props가 변경됨");
+}, [someState]);
+```
