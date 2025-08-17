@@ -51,7 +51,7 @@
 - [Error Boundary](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/error_boundary.md)
 - [불필요하게 리렌더링되는 상황을 방지하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/reRendering_prevent.md)
 - [리액트 동시성 모드(Concurrent Mode)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/concurrent_mode.md)
-- [리액트의 생명주기](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/life_cycle.md)
+- [리액트 생명주기](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/life_cycle.md)
 - [리액트 컴포넌트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/component.md)
 
 <br/>
