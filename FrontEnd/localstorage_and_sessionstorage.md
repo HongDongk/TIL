@@ -7,7 +7,8 @@
 
 이렇게 하면 자바크스립트에서 접근할 수 없으므로 XSS 공격에 대한 위험을 줄일 수 있습니다.
 
-[브라우저 웹 스토리지 관련 블로그](https://velog.io/@hongdongk/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%BA%90%EC%8B%9C)
+[브라우저 웹 스토리지](https://velog.io/@hongdongk/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%BA%90%EC%8B%9C)
+
 
 
 
