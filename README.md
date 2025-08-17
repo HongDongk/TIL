@@ -21,11 +21,12 @@
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
 - [실행컨텍스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/excution_context.md)
 - [이벤트루프](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/eventloop.md)
+- [이벤트 전파](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/event_propagtion.md)
+- [이벤트 버블링과 캡쳐링](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/eventbubbling_and_capturing.md)
 - [호이스팅](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/hoisting.md)
 - [배열](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/array.md)
 - [함수](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/function.md)
 - [script 태그에서 async와 defer의 차이점에 대해서 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/script_tag.md)
-- [이벤트 전파](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/event_propagtion.md)
 - [디바운스와 쓰로틀](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/debounce_and_throttle.md)
 - [싱글 스레드 언어](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/single_thread_language.md)
 - [undefined와 null의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/undefined_and_null.md)
@@ -50,6 +51,8 @@
 - [Error Boundary](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/error_boundary.md)
 - [불필요하게 리렌더링되는 상황을 방지하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/reRendering_prevent.md)
 - [리액트 동시성 모드(Concurrent Mode)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/concurrent_mode.md)
+- [리액트의 생명주기](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/life_cycle.md)
+- [리액트 컴포넌트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/component.md)
 
 <br/>
 
