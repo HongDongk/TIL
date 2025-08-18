@@ -54,6 +54,7 @@
 - [리액트 동시성 모드(Concurrent Mode)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/concurrent_mode.md)
 - [리액트 생명주기](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/life_cycle.md)
 - [리액트 컴포넌트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/component.md)
+- [리덕스를 사용하는 이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/redux.md)
 
 <br/>
 
