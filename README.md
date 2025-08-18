@@ -12,6 +12,7 @@
 - [CSS Flexbox와 Grid의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/flexbox_and_grid.md)
 - [프론트엔드 E2E 테스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/e2e_test.md)
 - [낙관적 업데이트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/optimistic_update.md)
+- [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
 - [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_and_interface.md)
 - [CORS(Cross-Origin Resource Sharing)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/cors.md)
 - [localStorage와 sessionStorage](https://github.com/HongDongk/TIL/blob/master/FrontEnd/localstorage_and_sessionstorage.md)
