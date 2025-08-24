@@ -17,6 +17,8 @@
 - [CORS(Cross-Origin Resource Sharing)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/cors.md)
 - [localStorage와 sessionStorage](https://github.com/HongDongk/TIL/blob/master/FrontEnd/localstorage_and_sessionstorage.md)
 - [webpack, rollup 번들러](https://github.com/HongDongk/TIL/blob/master/FrontEnd/webpack_and_rollup.md)
+- [HTTP란 무엇인지 설명해 주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/http.md)
+- [네트워크 통신에서 Body(Payload)와 Header의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/body_and_header.md)
 
 ### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
@@ -55,6 +57,8 @@
 - [리액트 생명주기](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/life_cycle.md)
 - [리액트 컴포넌트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/component.md)
 - [리덕스를 사용하는 이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/redux.md)
+- [서버 컴포넌트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/server_component.md)
+- [Streaming SSR](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/streaming_ssr.md)
 
 <br/>
 
