@@ -9,7 +9,6 @@
 - [웹 접근성의 개념과 개선 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/web_accessibility.md)
 - [시맨틱 마크업](https://github.com/HongDongk/TIL/blob/master/FrontEnd/symentic_markup.md)
 - [SSR(Server Side Rendering)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ssr.md)
-- [CSS Flexbox와 Grid의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/flexbox_and_grid.md)
 - [프론트엔드 E2E 테스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/e2e_test.md)
 - [낙관적 업데이트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/optimistic_update.md)
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
@@ -20,6 +19,11 @@
 - [HTTP란 무엇인지 설명해 주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/http.md)
 - [네트워크 통신에서 Body(Payload)와 Header의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/body_and_header.md)
 - [제로 런타임 CSS](https://github.com/HongDongk/TIL/blob/master/FrontEnd/zero_css.md)
+- [HTML 데이터 속성(data-)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_data_property.md)
+
+### Style
+- [px, em, rem의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/px_em_rem.md)
+- [CSS Flexbox와 Grid의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/flexbox_and_grid.md)
 
 ### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
