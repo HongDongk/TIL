@@ -38,6 +38,7 @@
 - [Promise의 resolve()와 fulfilled에 대해서 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/promise_2.md)
 - [ES6에 대해서 아는 대로 설명해 주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/ES6.md)
 - [함수 선언식과 함수 표현식의 차이점에 대해서 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/function%20declaration_and_function%20expression.md)
+- [클래스의 접근제어자](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/class_access_modifiers.md)
 
 ### React
 - [리플로우와 리페인트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reflow_and_repaint.md)
