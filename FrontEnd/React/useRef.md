@@ -19,21 +19,26 @@ return <input ref={inputRef} />;
 
 ### ✅ 둘째, useRef는 값을 유지하면서도 렌더링을 트리거하지 않기 위해 사용됩니다. 
 - 일반적으로 상태 값을 관리할 때 사용하는 `useState()`는 상태 변화가 리렌더링을 트리거하는 반면, `useRef()`는 값이 변경되어도 리렌더링을 트리거하지 않습니다.
-- 예를 들어, 타이머 id를 추적할 때 `useRef()`를 사용할 수 있습니다.
 
 ```javascript
-const timerRef = useRef(null);
+import { useState, useRef, useEffect } from "react";
 
-const startTimer = () => {
-  timerRef.current = setInterval(() => {
-    console.log('타이머 실행')
-  }, 1000);
-};
+function PreviousValue() {
+  const [count, setCount] = useState(0);
+  const prevCount = useRef(null);
 
-const stopTimer = () => {
-  clearInterval(timerRef.current); // 타이머를 정지한다.
-};
+  useEffect(() => {
+    prevCount.current = count; // 화면에 안 보여주고 기억만 함
+  }, [count]);
+
+  return (
+    <div>
+      <p>현재 값: {count}</p>
+      <p>이전 값: {prevCount.current}</p>
+      <button onClick={() => setCount(c => c + 1)}>+1</button>
+    </div>
+  );
+}
 ```
 
-위 예시에서 `useRef()`를 이용하여 타이머의 id를 추적하면서도 해당 상태 값이 업데이트될 때 컴포넌트를 리렌더링하지 않습니다.
 
