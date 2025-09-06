@@ -20,6 +20,10 @@
 - [네트워크 통신에서 Body(Payload)와 Header의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/body_and_header.md)
 - [제로 런타임 CSS](https://github.com/HongDongk/TIL/blob/master/FrontEnd/zero_css.md)
 - [HTML 데이터 속성(data-)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_data_property.md)
+- [event.target과 event.currentTarget의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/event.target_and_event.currentTarget.md)
+- [CDN이란 무엇인지 알려주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/CDN.md)
+- [HTML Doctype이 무엇인지 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/HTML_Doctype.md)
+- [Node와 Element의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/Node_and_Element.md)
 
 ### Style
 - [px, em, rem의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/px_em_rem.md)
@@ -65,6 +69,8 @@
 - [리덕스를 사용하는 이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/redux.md)
 - [서버 컴포넌트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/server_component.md)
 - [Streaming SSR](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/streaming_ssr.md)
+- [전역 상태 관리 라이브러리는 왜 사용하나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/globalstate_Management_Library.md)
+- [useRef 란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useRef.md)
 
 <br/>
 
