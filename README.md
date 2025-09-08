@@ -1,7 +1,7 @@
 # 📝 2025 Today I Learned
 
 # 🔥Frontend
-- [인터넷 창에 www.google.com를 입력하면 무슨 일이 일어나는지 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/browser_rendering.md)
+- [인터넷 창에 www.google.com를 입력하면 무슨 일이 일어나는지 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/browser_rendering.md)
 - [브라우저 렌더링 과정](https://github.com/HongDongk/TIL/blob/master/FrontEnd/dns_proccess.md)
 - [CommonJS와 ES Module의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/commonJs_esModule.md)
 - [웹 성능 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/web_performance_optimization.md)
@@ -20,12 +20,13 @@
 - [네트워크 통신에서 Body(Payload)와 Header의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/body_and_header.md)
 - [제로 런타임 CSS](https://github.com/HongDongk/TIL/blob/master/FrontEnd/zero_css.md)
 - [HTML 데이터 속성(data-)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_data_property.md)
-- [CDN이란 무엇인지 알려주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/CDN.md)
-- [HTML Doctype이 무엇인지 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/HTML_Doctype.md)
+- [CDN이란 무엇인지 알려주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/CDN.md)
+- [HTML Doctype이 무엇인지 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/HTML_Doctype.md)
 - [Node와 Element의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/Node_and_Element.md)
+- [TDD란 무엇인지 알려주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/TDD.md)
 
 ### Style
-- [px, em, rem의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/px_em_rem.md)
+- [px, em, rem의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/px_em_rem.md)
 - [CSS Flexbox와 Grid의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/flexbox_and_grid.md)
 
 ### JavaScript
