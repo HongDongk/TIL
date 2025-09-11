@@ -37,4 +37,7 @@ maru.greet(); // "Hello from Dog!" 출력
 - 이때 `dog`에 `greet()`이 존재하면 탐색을 멈추고 해당 메서드를 호출합니다.
 - 만약 `dog`에도 존재하지 않는다면 프로토타입 체인의 끝에 도달할 때까지 상위 프로토타입을 계속 탐색해 나갑니다.
 
+[프로토타입과 클래스 관련 정리 블로그](https://velog.io/@hongdongk/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D#-js%EB%8A%94-%EB%AC%B4%EC%8A%A8-%EC%96%B8%EC%96%B4%EC%9D%BC%EA%B9%8C)
+
+
 
