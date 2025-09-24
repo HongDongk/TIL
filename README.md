@@ -6,6 +6,7 @@
 - [CommonJS와 ES Module의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/commonJs_esModule.md)
 - [웹 성능 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/web_performance_optimization.md)
 - [이미지 최적화 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/image_optimization.md)
+- [이미지 포맷 종류](https://github.com/HongDongk/TIL/blob/master/FrontEnd/imageformat.md)
 - [웹 접근성의 개념과 개선 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/web_accessibility.md)
 - [시맨틱 마크업](https://github.com/HongDongk/TIL/blob/master/FrontEnd/symentic_markup.md)
 - [SSR(Server Side Rendering)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ssr.md)
@@ -14,6 +15,7 @@
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
 - [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_and_interface.md)
 - [CORS(Cross-Origin Resource Sharing)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/cors.md)
+- [CORS 설정 없이 SOP를 우회하여 외부 서버와 통신할 수 있는 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/sop.md)
 - [localStorage와 sessionStorage](https://github.com/HongDongk/TIL/blob/master/FrontEnd/localstorage_and_sessionstorage.md)
 - [webpack, rollup 번들러](https://github.com/HongDongk/TIL/blob/master/FrontEnd/webpack_and_rollup.md)
 - [HTTP란 무엇인지 설명해 주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/http.md)
@@ -28,6 +30,7 @@
 ### Style
 - [px, em, rem의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/px_em_rem.md)
 - [CSS Flexbox와 Grid의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/flexbox_and_grid.md)
+- [CSS box-sizing](https://github.com/HongDongk/TIL/blob/master/FrontEnd/css_box_sizing.md)
 
 ### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
