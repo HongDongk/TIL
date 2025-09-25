@@ -27,6 +27,10 @@ React를 이용해서 웹 애플리케이션을 구현하기 위해서는 번들
 
 <br/>
 
+[📚 Next.js의 동작방식](https://velog.io/@hongdongk/Next.js%EC%9D%98-pre-rendering-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+
+
+
 
 
 
