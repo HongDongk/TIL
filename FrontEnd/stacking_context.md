@@ -20,14 +20,14 @@
 
 ```html
 <div style="position: relative; z-index: 1;">
-    A 요소 (z-index: 1)
+    A 요소 
     <div style="position: absolute; z-index: 999;">
-        A-1 요소 (z-index: 999)
+        A-1 요소 
     </div>
 </div>
 
 <div style="position: relative; z-index: 2;">
-    B 요소 (z-index: 2)
+    B 요소
 </div>
 ```
 위 예시에서 가장 위쪽에 쌓이는 요소는 B 요소입니다. 그 다음 A-1 요소, A 요소 순으로 쌓입니다.
@@ -35,3 +35,4 @@
 - 최상위 쌓임 맥락 내의 요소들인 A 요소와 B 요소의 `z-index` 값을 비교했을 때, B 요소가 크기 때문에 가장 위쪽에 쌓입니다.
 - 그리고 A 요소가 형성한 쌓임 맥락 내에서 `z-index` 값을 비교했을 때, A 요소보다 `z-index`가 큰 A-1 요소가 더 위쪽에 쌓이게 됩니다.
 - 이런 예시를 보면 `z-index` 값이 더 크다고 무조건 위쪽에 쌓이는 것이 아니며, 쌓임 맥락을 고려해야 한다는 사실을 알 수 있습니다.
+
