@@ -27,9 +27,12 @@
 - [CI/CD 란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ci_cd.md)
 - [쌓임 맥락이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/stacking_context.md)
 - [HTML link 요소의 rel 속성 값은 무엇이잇나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_link_rel_property.md)
+
+### Type
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
 - [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_and_interface.md)
 - [타입 단언이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_assertion.md)
+
 
 ### Style
 - [px, em, rem의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/px_em_rem.md)
