@@ -27,8 +27,9 @@
 
 <br/>
 
-[HTTP 프로토콜](https://velog.io/@hongdongk/GET-POST-PUT-PATCH)  
+### [✅ HTTP 프로토콜](https://velog.io/@hongdongk/GET-POST-PUT-PATCH)  
 
-[REST, RESTful API 란 무엇인가요?](https://velog.io/@hongdongk/Rest-API)
+### [✅ REST, RESTful API 란 무엇인가요?](https://velog.io/@hongdongk/Rest-API)
+
 
 
