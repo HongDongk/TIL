@@ -28,6 +28,7 @@ element.style.backgroundColor = "blue";
 
 ### ✅ 타입 단언보다는 타입 내로잉(narrowing)을 우선적으로 활용하는 것이 좋습니다. 
 - 타입스크립트는 조건문과 타입 체크를 통해 자동으로 타입을 좁힐 수 있으므로, 가능한 한 단언 없이 타입을 명확히 하는 방식이 권장됩니다.
+- 조건문이나 타입 체크를 통해 실제 값의 타입을 점점 좁혀 나가는 것
 
 ```javascript
 function printLength(value: string | string[]) {
@@ -63,3 +64,4 @@ if (element) {
 ```
 
 <br/>
+
