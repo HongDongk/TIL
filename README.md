@@ -12,8 +12,6 @@
 - [SSR(Server Side Rendering)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ssr.md)
 - [프론트엔드 E2E 테스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/e2e_test.md)
 - [낙관적 업데이트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/optimistic_update.md)
-- [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
-- [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_and_interface.md)
 - [CORS(Cross-Origin Resource Sharing)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/cors.md)
 - [CORS 설정 없이 SOP를 우회하여 외부 서버와 통신할 수 있는 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/sop.md)
 - [localStorage와 sessionStorage](https://github.com/HongDongk/TIL/blob/master/FrontEnd/localstorage_and_sessionstorage.md)
@@ -29,6 +27,9 @@
 - [CI/CD 란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ci_cd.md)
 - [쌓임 맥락이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/stacking_context.md)
 - [HTML link 요소의 rel 속성 값은 무엇이잇나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_link_rel_property.md)
+- [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
+- [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_and_interface.md)
+- [타입 단언이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_assertion.md)
 
 ### Style
 - [px, em, rem의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/px_em_rem.md)
