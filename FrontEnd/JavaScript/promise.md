@@ -60,6 +60,7 @@ myPromise
 
 <br/>
 
-[Promise 관련 블로그](https://velog.io/@hongdongk/%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4-async)
+### [✅ Promise 관련 블로그](https://velog.io/@hongdongk/%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4-async)
+
 
 
