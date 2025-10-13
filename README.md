@@ -15,6 +15,7 @@
 - [CORS(Cross-Origin Resource Sharing)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/cors.md)
 - [CORS 설정 없이 SOP를 우회하여 외부 서버와 통신할 수 있는 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/sop.md)
 - [localStorage와 sessionStorage](https://github.com/HongDongk/TIL/blob/master/FrontEnd/localstorage_and_sessionstorage.md)
+- [Json Web Token의 장점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/jwt_token.md)
 - [webpack, rollup 번들러](https://github.com/HongDongk/TIL/blob/master/FrontEnd/webpack_and_rollup.md)
 - [HTTP란 무엇인지 설명해 주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/http.md)
 - [네트워크 통신에서 Body(Payload)와 Header의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/body_and_header.md)
@@ -27,8 +28,11 @@
 - [쌓임 맥락이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/stacking_context.md)
 - [HTML link 요소의 rel 속성 값은 무엇이잇나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_link_rel_property.md)
 - [HTML image 요소의 alt 속성](https://github.com/HongDongk/TIL/blob/master/FrontEnd/image_alt_property.md)
+- [Content-Type 헤더란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/Content-Type.md)
 - [모노레포란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/monorepo.md)
 - [git 브랜치 전략](https://github.com/HongDongk/TIL/blob/master/FrontEnd/git_branch.md)
+- [효과적으로 디버깅하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/debugging_process.md)
+- [불변성(Immutability)이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/Immutability.md)
 
 ### Type
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
@@ -44,6 +48,7 @@
 - [Reset CSS와 Normalize CSS](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reset_normalize_css.md)
 - [제로 런타임 CSS](https://github.com/HongDongk/TIL/blob/master/FrontEnd/zero_css.md)
 - [CSS 전처리기란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/css_preprocessor.md)
+- [CSS 의사 요소(Pseudo-elements)란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/Pseudo-elements.md)
 
 ### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
@@ -81,6 +86,8 @@
 - [useEffect와 useLayoutEffect](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_useLayoutEffect.md)
 - [useEffect가 호출되는 시점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect.md)
 - [useEffect와 Suspense를 활용하는 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_suspense.md)
+- [useRef 란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useRef.md)
+- [왜 useState를 조건문 안에서 사용하면 안 되나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useState.md)
 - [Error Boundary](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/error_boundary.md)
 - [불필요하게 리렌더링되는 상황을 방지하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/reRendering_prevent.md)
 - [리액트 동시성 모드(Concurrent Mode)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/concurrent_mode.md)
@@ -90,7 +97,6 @@
 - [서버 컴포넌트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/server_component.md)
 - [Streaming SSR](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/streaming_ssr.md)
 - [전역 상태 관리 라이브러리는 왜 사용하나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/globalstate_Management_Library.md)
-- [useRef 란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useRef.md)
 - [Virtual Dom이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/virtualDom.md)
 - [Next.js를 사용하는 이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/nextjs.md)
 - [Server Action이란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/server_action.md)
