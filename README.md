@@ -18,7 +18,6 @@
 - [webpack, rollup 번들러](https://github.com/HongDongk/TIL/blob/master/FrontEnd/webpack_and_rollup.md)
 - [HTTP란 무엇인지 설명해 주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/http.md)
 - [네트워크 통신에서 Body(Payload)와 Header의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/body_and_header.md)
-- [제로 런타임 CSS](https://github.com/HongDongk/TIL/blob/master/FrontEnd/zero_css.md)
 - [HTML 데이터 속성(data-)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_data_property.md)
 - [CDN이란 무엇인지 알려주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/CDN.md)
 - [HTML Doctype이 무엇인지 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/HTML_Doctype.md)
@@ -27,6 +26,9 @@
 - [CI/CD 란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ci_cd.md)
 - [쌓임 맥락이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/stacking_context.md)
 - [HTML link 요소의 rel 속성 값은 무엇이잇나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_link_rel_property.md)
+- [HTML image 요소의 alt 속성](https://github.com/HongDongk/TIL/blob/master/FrontEnd/image_alt_property.md)
+- [모노레포란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/monorepo.md)
+- [git 브랜치 전략](https://github.com/HongDongk/TIL/blob/master/FrontEnd/git_branch.md)
 
 ### Type
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
@@ -39,6 +41,9 @@
 - [CSS Flexbox와 Grid의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/flexbox_and_grid.md)
 - [CSS box-sizing](https://github.com/HongDongk/TIL/blob/master/FrontEnd/css_box_sizing.md)
 - [위치를 동적으로 변경할 때 css 속성 중 transform과 position 중 어떤 것을 선호하시나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/transform_and_position.md)
+- [Reset CSS와 Normalize CSS](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reset_normalize_css.md)
+- [제로 런타임 CSS](https://github.com/HongDongk/TIL/blob/master/FrontEnd/zero_css.md)
+- [CSS 전처리기란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/css_preprocessor.md)
 
 ### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
