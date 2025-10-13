@@ -32,7 +32,6 @@
 - [모노레포란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/monorepo.md)
 - [git 브랜치 전략](https://github.com/HongDongk/TIL/blob/master/FrontEnd/git_branch.md)
 - [효과적으로 디버깅하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/debugging_process.md)
-- [불변성(Immutability)이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/Immutability.md)
 
 ### Type
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
@@ -71,6 +70,7 @@
 - [함수 선언식과 함수 표현식의 차이점에 대해서 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/function%20declaration_and_function%20expression.md)
 - [클래스의 접근제어자](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/class_access_modifiers.md)
 - [프로토타입 상속의 동작 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/prototype.md)
+- [불변성(Immutability)이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/Immutability.md)
 - [다음 JS 코드의 실행 결과를 설명해주세요.(1)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/js_result1.md)
 
 ### React
