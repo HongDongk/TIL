@@ -71,6 +71,7 @@
 - [클래스의 접근제어자](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/class_access_modifiers.md)
 - [프로토타입 상속의 동작 방식](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/prototype.md)
 - [불변성(Immutability)이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/Immutability.md)
+- [requestAnimationFrame에 대해서 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/requestAnimationFrame.md)
 - [다음 JS 코드의 실행 결과를 설명해주세요.(1)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/js_result1.md)
 
 ### React
