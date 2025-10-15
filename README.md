@@ -32,6 +32,7 @@
 - [모노레포란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/monorepo.md)
 - [git 브랜치 전략](https://github.com/HongDongk/TIL/blob/master/FrontEnd/git_branch.md)
 - [효과적으로 디버깅하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/debugging_process.md)
+- [패키지매니저 pnpm과 yarn berry에 대해 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/package_manager.md)
 
 ### Type
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
