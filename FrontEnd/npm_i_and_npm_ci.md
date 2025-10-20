@@ -1,5 +1,5 @@
 # Q: npm install과 npm ci의 차이점에 대해 설명해주세요.
-> `npm install`과 `npm ci(clean-install)` 모두 의존성 목록을 설치하는 커맨드이지만, 세부 동작에 차이가 있습니다.
+> `npm install`과 `npm ci(clean-install)` 모두 의존성 목록을 설치하는 커맨드이지만, 세부 동작에 차이가 있습니다.  
 > 요약하면, `npm ci`는 `npm install`에 비해 의존성의 버전을 엄격하게 유지합니다.
 
 ## npm install
@@ -38,6 +38,7 @@
 
 따라서, 로컬에서는 일반적으로 `npm install`을 사용하고, CI/CD 환경에서는 `npm ci`를 사용하는 경우가 많습니다.     
 다만, 팀 내에서 의존성 버전을 엄격하게 맞추는 것이 중요하다고 판단되면 로컬 환경에서도 `npm ci`를 사용할 수 있습니다.
+
 
 
 
