@@ -32,6 +32,9 @@
 - [git 브랜치 전략](https://github.com/HongDongk/TIL/blob/master/FrontEnd/git_branch.md)
 - [효과적으로 디버깅하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/debugging_process.md)
 - [패키지매니저 pnpm과 yarn berry에 대해 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/package_manager.md)
+- [npm install과 npm ci의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/npm_i_and_npm_ci.md)
+- [인증과 인가에 대해 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/authentication_and_authorization.md)
+- [BFF(Backend For Frontend)란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/BFF(Backend%20For%20Frontend).md)
 
 ### Type
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
