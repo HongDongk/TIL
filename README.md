@@ -23,7 +23,7 @@
 - [HTML Doctype이 무엇인지 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/HTML_Doctype.md)
 - [Node와 Element의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/Node_and_Element.md)
 - [TDD란 무엇인지 알려주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/TDD.md)
-- [테스트하기 쉬운 코드의 조건들](https://github.com/HongDongk/TIL/blob/master/FrontEnd/useful_testcode.md)
+- [테스트하기 쉬운 코드의 조건들에 대해 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/useful_testcode.md)
 - [CI/CD 란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ci_cd.md)
 - [쌓임 맥락이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/stacking_context.md)
 - [HTML link 요소의 rel 속성 값은 무엇이잇나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_link_rel_property.md)
