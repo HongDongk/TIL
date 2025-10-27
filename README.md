@@ -23,11 +23,14 @@
 - [HTML Doctype이 무엇인지 설명해주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/HTML_Doctype.md)
 - [Node와 Element의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/Node_and_Element.md)
 - [TDD란 무엇인지 알려주세요](https://github.com/HongDongk/TIL/blob/master/FrontEnd/TDD.md)
+- [테스트하기 쉬운 코드의 조건들](https://github.com/HongDongk/TIL/blob/master/FrontEnd/useful_testcode.md)
 - [CI/CD 란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ci_cd.md)
 - [쌓임 맥락이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/stacking_context.md)
 - [HTML link 요소의 rel 속성 값은 무엇이잇나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_link_rel_property.md)
 - [HTML image 요소의 alt 속성](https://github.com/HongDongk/TIL/blob/master/FrontEnd/image_alt_property.md)
+- [<a> 태그를 이용해 외부 페이지를 열 때 보안상 고려해야 할 점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/a_tag.md)
 - [Content-Type 헤더란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/Content-Type.md)
+- [Cache-Control 헤더란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/cache-control-header.md)
 - [모노레포란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/monorepo.md)
 - [git 브랜치 전략](https://github.com/HongDongk/TIL/blob/master/FrontEnd/git_branch.md)
 - [효과적으로 디버깅하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/debugging_process.md)
@@ -35,11 +38,13 @@
 - [npm install과 npm ci의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/npm_i_and_npm_ci.md)
 - [인증과 인가에 대해 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/authentication_and_authorization.md)
 - [BFF(Backend For Frontend)란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/BFF(Backend%20For%20Frontend).md)
+- [웹뷰란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/webview.md)
 
 ### Type
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
 - [타입스크립트의 타입과 인터페이스의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_and_interface.md)
 - [타입 단언이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/type_assertion.md)
+- [타입스크립트의 infer 키워드](https://github.com/HongDongk/TIL/blob/master/FrontEnd/infer_keyword.md)
 
 
 ### Style
