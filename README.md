@@ -28,7 +28,7 @@
 - [쌓임 맥락이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/stacking_context.md)
 - [HTML link 요소의 rel 속성 값은 무엇이잇나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/html_link_rel_property.md)
 - [HTML image 요소의 alt 속성](https://github.com/HongDongk/TIL/blob/master/FrontEnd/image_alt_property.md)
-- [<a> 태그를 이용해 외부 페이지를 열 때 보안상 고려해야 할 점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/a_tag.md)
+- [`<a>` 태그를 이용해 외부 페이지를 열 때 보안상 고려해야 할 점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/a_tag.md)
 - [Content-Type 헤더란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/Content-Type.md)
 - [Cache-Control 헤더란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/cache-control-header.md)
 - [모노레포란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/monorepo.md)
