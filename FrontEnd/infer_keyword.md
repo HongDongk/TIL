@@ -35,3 +35,28 @@ type Check<T> = T extends string ? '문자열' : '다른 타입';
 type Example1 = Check<'hello'>; // '문자열'
 type Example2 = Check<42>; // '다른 타입'
 ```
+
+### 📚 제너릭이란?
+> **타입을 변수처럼 사용하는 문법**  
+> 즉, 함수나 클래스, 타입에서 입력되는 타입에 따라 동적으로 타입이 바뀌도록 만드는 기능
+
+#### 제네릭 예시
+```javascript
+function identity<T>(value: T): T {
+  return value;
+}
+
+const result2 = identity("hello"); // T가 string으로 추론됨 → 반환 타입도 string
+```
+
+#### 제네릭 + extends 예시
+```javascript
+function logLength<T extends { length: number }>(value: T): number {
+  return value.length;
+}
+
+logLength("hello"); // ✅ string은 length 속성을 가짐
+logLength([1, 2, 3]); // ✅ 배열도 length 속성을 가짐
+logLength(123); // ❌ number는 length가 없음
+```
+여기서 `T extends { length: number }`는 "T가 length 속성을 가진 타입이어야 한다"는 제약조건입니다.
