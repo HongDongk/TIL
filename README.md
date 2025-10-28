@@ -60,7 +60,7 @@
 ### JavaScript
 - [클로저](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/closure.md)
 - [실행컨텍스트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/excution_context.md)
-- [이벤트루프](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/eventloop.md)
+- [이벤트 루프](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/eventloop.md)
 - [이벤트 전파](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/event_propagtion.md)
 - [이벤트 버블링과 캡쳐링](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/eventbubbling_and_capturing.md)
 - [event.target과 event.currentTarget의 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/event.target_and_event.currentTarget.md)
@@ -95,7 +95,7 @@
 - [리액트의 index와 key값의 상관관계](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/index_and_key.md)
 - [useEffect와 useLayoutEffect](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_useLayoutEffect.md)
 - [useEffect가 호출되는 시점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect.md)
-- [useEffect와 Suspense를 활용하는 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_suspense.md)
+- [useEffect를 이용하여 로딩 상태 관리하는 방법과 Suspense를 활용하는 방법에 대한 차이점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_suspense.md)
 - [useRef 란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useRef.md)
 - [useRef를 사용하는 것과 let을 사용하는 것의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useRef_and_let.md)
 - [왜 useState를 조건문 안에서 사용하면 안 되나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useState.md)
