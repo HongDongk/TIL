@@ -97,6 +97,7 @@
 - [useEffect가 호출되는 시점](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect.md)
 - [useEffect와 Suspense를 활용하는 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useEffect_and_suspense.md)
 - [useRef 란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useRef.md)
+- [useRef를 사용하는 것과 let을 사용하는 것의 차이](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useRef_and_let.md)
 - [왜 useState를 조건문 안에서 사용하면 안 되나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/useState.md)
 - [Error Boundary](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/error_boundary.md)
 - [불필요하게 리렌더링되는 상황을 방지하기 위한 방법](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/reRendering_prevent.md)
