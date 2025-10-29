@@ -39,6 +39,7 @@
 - [인증과 인가에 대해 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/authentication_and_authorization.md)
 - [BFF(Backend For Frontend)란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/BFF(Backend%20For%20Frontend).md)
 - [웹뷰란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/webview.md)
+- [브라우저 메모리 캐시와 디스크 캐시](https://github.com/HongDongk/TIL/blob/master/FrontEnd/browser_cache.md)
 
 ### Type
 - [타입스크립트의 사용이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/typescript.md)
