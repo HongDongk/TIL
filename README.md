@@ -82,6 +82,7 @@
 - [불변성(Immutability)이란?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/Immutability.md)
 - [requestAnimationFrame에 대해서 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/requestAnimationFrame.md)
 - [다음 JS 코드의 실행 결과를 설명해주세요.(1)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/js_result1.md)
+- [다음 Promise 코드의 실행 결과를 설명해주세요.](https://github.com/HongDongk/TIL/blob/master/FrontEnd/JavaScript/promise_result.md)
 
 ### React
 - [리플로우와 리페인트](https://github.com/HongDongk/TIL/blob/master/FrontEnd/reflow_and_repaint.md)
