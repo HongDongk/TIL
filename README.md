@@ -109,6 +109,7 @@
 - [리덕스를 사용하는 이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/redux.md)
 - [전역 상태 관리 라이브러리는 왜 사용하나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/globalstate_Management_Library.md)
 - [Next.js를 사용하는 이유](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/nextjs.md)
+- [왜 기본 img 태그 대신 next/Image를 사용하셨나요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/next_image.md)
 - [서버 컴포넌트란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/server_component.md)
 - [Server Action이란 무엇인가요?](https://github.com/HongDongk/TIL/blob/master/FrontEnd/React/server_action.md)
 - [SSR(Server Side Rendering)](https://github.com/HongDongk/TIL/blob/master/FrontEnd/ssr.md)
