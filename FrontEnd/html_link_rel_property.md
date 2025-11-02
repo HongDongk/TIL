@@ -15,7 +15,7 @@
 **특정 리소스를 미리 가져오도록 브라우저에 지시합니다.**
 - 예를 들어, 웹 폰트를 `preload`하면 해당 리소스가 실제로 사용되기 전에 다운로드가 완료됩니다.
 ```
-<link rel="preconnect" href="https://external-resource.com" crossorigin="anonymous">
+<link rel="preload" href="/fonts/my-font.woff2" as="font" crossorigin="anonymous">
 ```
 
 ### ✅ prefetch
@@ -29,4 +29,5 @@
 <br/>
 
 사용자가 페이지에서 버튼을 클릭해 다음 화면으로 이동할 가능성이 높을 경우, 다음 화면에 필요한 css 리소스를 미리 준비하는 방식으로 사용할 수 있습니다.
+
 
